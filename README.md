@@ -1,4 +1,3 @@
-
 # Introdução
 
 Este trabalho apresenta a realização de testes de caixa cinza em uma API de autenticação, utilizando o Supabase e o Postman.
@@ -53,9 +52,7 @@ Os valores das variáveis foram deixados em branco no arquivo de Environment exp
 
 As requisições utilizaram o método HTTP `POST` e o seguinte endpoint:
 
-```http
-POST {{base_url}}/auth/v1/token?grant_type=password
-```
+`POST {{base_url}}/auth/v1/token?grant_type=password`
 
 Foram configurados os seguintes cabeçalhos:
 

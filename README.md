@@ -97,9 +97,9 @@ O código HTTP 400 nos testes negativos não representa uma falha da atividade, 
 **Evidências dos testes:**
 
 - [Teste 01 - Login válido](prints/01%20-%20Senha%20Correta.png)
-- [Teste 02 - Senha incorreta](prints/02-%20Senha%20Incorreta.png)
-- [Teste 03 - Usuário inexistente](prints/03-%20Usu%C3%A1rio%20Inexistente.png)
-- [Teste 04 - Campos vazios](prints/04-%20Campos%20Vazios.png)
+- [Teste 02 - Senha incorreta](prints/02%20-%20Senha%20Incorrteta.png)
+- [Teste 03 - Usuário inexistente](prints/03%20-%20Usu%C3%A1rio%20Inexistente.png)
+- [Teste 04 - Campos vazios](prints/04%20-%20Campos%20Vazios.png)
 - [Teste 05 - Credenciais inválidas](prints/05-credenciais-invalidas.png)
 
 # Registro dos Testes
